@@ -1,75 +1,34 @@
-# **Welcome to My Profile**
+# Sagar Vinod Gour
 
-![Typing Animation](https://your-banner-url.com)  
-**AI + Engineer; Backend + Developer; Cloud + Enthusiast**
+## AI Engineer | Backend Developer | Cloud & Data Enthusiast
 
----  
+### About Me
 
-## **About Me**  
-I am an AI and backend developer with a passion for building scalable applications. My expertise includes using **FastAPI** for building APIs and **Neo4j** for graph database management.
+I am a passionate AI Engineer focusing on developing intelligent solutions with FastAPI and Neo4j. My expertise includes creating scalable backend systems and leveraging cloud technology to enhance performance and reliability.
 
----  
+### Tech Stack
+- **Languages**: Python, JavaScript, TypeScript, C++, SQL, Cypher, Bash
+- **Backend Frameworks**: FastAPI, Node.js, Express, Flask, TensorFlow, PyTorch
 
-## **Tech Stack**  
-- **Languages:**  
-  - Python  
-  - JavaScript  
-  - TypeScript  
-  - C++  
-  - SQL  
-  - Cypher  
-  - Bash  
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagargour24&show_icons=true&hide_title=true)
 
-- **Frameworks:**  
-  - FastAPI  
-  - Node.js  
-  - Express  
-  - Flask  
-  - TensorFlow  
-  - PyTorch  
+### Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sagargour24)
 
----  
+### Featured Projects
+- **AI Projects**: [Project 1](#), [Project 2](#)
+- **Backend Projects**: [Project 1](#), [Project 2](#)
+- **Cloud Projects**: [Project 1](#), [Project 2](#)
 
-## **GitHub Stats**  
-![GitHub Stats](https://stats-url.com)  
-![Top Languages](https://top-languages-url.com)  
+### Resume
+[Download my updated resume](https://link-to-your-resume/SAGARGOURUPDATEDRESUME.pdf)
 
----  
+### Current Focus
+Currently, I am focusing on AI Engineering and working with FastAPI and Neo4j.
 
-## **Contribution Graph**  
-![Contribution Graph](https://contribution-graph-url.com)  
+### Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/sagar-gour-18806a2b2/)
+- Email: sagar.gour1597@gmail.com
 
----  
-
-## **Featured Projects**  
-### **AI & Machine Learning**  
-- Project 1  
-- Project 2  
-
-### **Backend Development**  
-- Project A  
-- Project B  
-
-### **Cloud & Automation**  
-- Project X  
-- Project Y  
-
----  
-
-## **Resume**  
-[Download My Resume](https://github.com/sagargour24/sagargour24/blob/main/SAGARGOURUPDATEDRESUME.pdf)  
-
----  
-
-## **Current Focus**  
-I am currently focused on **AI Engineering** and **FastAPI + Neo4j** integration.
-
----  
-
-## **Connect With Me**  
-- [LinkedIn](https://www.linkedin.com/in/sagar-gour-18806a2b2/)  
-- Email: sagar.gour1597@gmail.com  
-
----  
-
-> "The best way to predict the future is to invent it." - Kent Beck
+> "You can do anything, but not everything." - Kent Beck
