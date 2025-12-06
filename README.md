@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00B3FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00B3FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Developer;Cloud+Enthusiast" />
 </p>
 
 # 🌌 Sagar Vinod Gour  
@@ -15,7 +15,7 @@ Hi! I'm **Sagar**, an engineer passionate about building intelligent systems, sc
 - 🌱 Learning & building in **AI Engineering**, **MLOps**, and **Distributed Systems**
 - 🤝 Open to collaborating on **AI projects**, **open-source tools**, and **startups**
 - 💬 Ask me about **Python, ML, APIs, AWS, React, Databases**
-- 📫 Reach me at: **your-email@domain.com**
+- 📫 Reach me at: **sagar.gour1597@gmail.com**
 - ⚡ Fun fact: I treat every idea like a micro-startup.
 
 ---
@@ -98,7 +98,7 @@ A unified API to power all my side projects.
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@domain.com">
+  <a href="mailto:sagar.gour1597@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
