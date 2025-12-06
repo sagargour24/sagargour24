@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00B3FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+Enthusiast;Building+Cool+Things+That+Actually+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00B3FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+Enthusiast" />
 </p>
 
 # 🌌 Sagar Vinod Gour  
 ### *AI Engineer | Full-Stack Problem Solver | Cloud & Data Enthusiast*
 
-Hi! I'm **Sagar**, an engineer passionate about building intelligent systems, scalable apps, and products that solve real-world problems. I love learning, experimenting, and pushing ideas from prototype → production.
+Hi! I'm **Sagar**, an engineer passionate about building intelligent systems, scalable apps, and products that solve real-world problems. I love learning, experimenting, and pushing ideas from prototype to production.
 
 ---
 
@@ -40,15 +40,15 @@ Hi! I'm **Sagar**, an engineer passionate about building intelligent systems, sc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sagargour24&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagargour24&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagargour24&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -106,5 +106,4 @@ A unified API to power all my side projects.
 ---
 
 ## 🌟 Quote I Live By
-> *“Make it work. Make it right. Make it fast.”* — Kent Beck
-
+> *"Make it work. Make it right. Make it fast."* — Kent Beck
