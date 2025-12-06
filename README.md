@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00B3FF&center=true&vCenter=true&width=600&lines=Sagar's+Universe;AI+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+Enthusiast;Building+Cool+Things+That+Actually+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00B3FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+Enthusiast;Building+Cool+Things+That+Actually+Work" alt="Typing SVG" />
 </p>
 
-# 🌌 Sagar’s Universe  
+# 🌌 Sagar Vinod Gour  
 ### *AI Engineer | Full-Stack Problem Solver | Cloud & Data Enthusiast*
 
 Hi! I'm **Sagar**, an engineer passionate about building intelligent systems, scalable apps, and products that solve real-world problems. I love learning, experimenting, and pushing ideas from prototype → production.
