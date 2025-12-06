@@ -1,52 +1,50 @@
-# Banner 
+# Animated Banner with Typing Effect
 
-![Typing Animation](https://example.com/typing-animation.gif)  
+![Animated Banner](link-to-your-banner.gif)
 
-# Sagar Vinod Gour - AI Engineer | Backend Developer | Cloud & Data Enthusiast  
+# Introduction
+Hello! I'm Sagar, an AI Engineer and Backend Developer specializing in FastAPI and Neo4j. My work focuses on developing intelligent applications using cutting-edge technologies, especially in machine learning and data management.
 
-## About Me  
-I am an AI Engineer with expertise in FastAPI and Neo4j. I love working on innovative projects that involve Artificial Intelligence and data management.  
+# About Me
+An enthusiastic developer with a passion for building efficient and scalable systems, I thrive in dynamic environments where I can tackle complex challenges and innovate solutions.
 
-## Tech Stack  
-- Python  
-- FastAPI  
-- Neo4j  
-- AWS  
-- Docker  
-- Git  
-- Machine Learning  
-- Deep Learning  
-  
-## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagargour24&show_icons=true)  
+# Tech Stack
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** FastAPI, Flask, React
+- **Databases:** Neo4j, PostgreSQL
+- **Other Tools:** Docker, Git, GitHub Actions
 
-## Contribution Graph & Streak  
-![Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=sagargour24&layout=compact)  
+# GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagargour24&show_icons=true)
 
-## Featured Projects  
-### AI & Machine Learning  
-- [Project 1](https://github.com/sagargour24/project1)  
-- [Project 2](https://github.com/sagargour24/project2)  
-  
-### Backend Development  
-- [Project 3](https://github.com/sagargour24/project3)  
-  
-### Cloud & Automation  
-- [Project 4](https://github.com/sagargour24/project4)  
+# Contribution Graph & Streak
+![Contribution Chart](https://github.com/sagargour24/sagargour24/graphs/commit-activity)
 
-## Master's Thesis  
-**Liver Vessel Segmentation using PhySegNet**  
-[![Thesis PDF](https://img.shields.io/badge/PDF-Download-blue)](Thesis_Sagar_Gour.pdf)  
+# Featured Projects
+### AI & Machine Learning
+- Project 1: Description...
+- Project 2: Description...
 
-## Resume  
-[![Resume PDF](https://img.shields.io/badge/Resume-Download-red)](SAGARGOURUPDATEDRESUME.pdf)  
+### Backend Development
+- Project 1: Description...
+- Project 2: Description...
 
-## Current Focus  
-Currently working on enhancing my skills in AI and backend development to create scalable applications.  
+### Cloud & Automation
+- Project 1: Description...
+- Project 2: Description...
 
-## Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/sagar-gour-18806a2b2/)  
-- Email: sagar.gour1597@gmail.com  
-  
-## Quote  
-> "I think a lot of people are afraid to tell the truth, to say no. That’s where integrity comes in." - Kent Beck
+# Master's Thesis
+My Master's thesis focused on Liver Vessel Segmentation using PhySegNet. You can read it [here](link-to-thesis.pdf).
+
+# Resume
+You can view my updated resume [here](link-to-resume.pdf).
+
+# Current Focus
+Currently, I am working on enhancing my skills in artificial intelligence and improving backend solutions.
+
+# Connect With Me
+- **LinkedIn:** [Sagar Gour](https://www.linkedin.com/in/sagar-gour-18806a2b2/)
+- **Email:** sagar.gour1597@gmail.com
+
+# Quote
+> "The best way to predict the future is to invent it." - Kent Beck
