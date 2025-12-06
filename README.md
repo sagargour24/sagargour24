@@ -137,4 +137,4 @@ Vector search, embeddings, LLM-powered retrieval with graph databases.
 ---
 
 ## 🌟 Quote I Live By
-> *"Make it work. Make it right. Make it fast."* — Kent Beck
+> *"Time is all I want, Time is all I can spend."* — Sagar Gour
