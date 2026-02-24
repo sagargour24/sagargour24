@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00B3FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Backend+Developer;Cloud+Enthusiast" />
 </p>
@@ -38,22 +37,17 @@ Hi! I'm **Sagar**, an AI engineer and backend developer passionate about buildin
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GeneGeniusInc Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sagargour24&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagargour24&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeneGeniusinc&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneGeniusinc&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📈 Contribution Graph & Streak
+## 📈 Organization Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagargour24&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagargour24&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeneGeniusinc&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -90,8 +84,7 @@ My master's thesis focused on developing an advanced deep learning architecture 
 - **Performance** – Achieving superior results in segmentation tasks
 - **Applications** – Significant implications in surgery and diagnostics
 
-**Technologies Used:**  
-`PyTorch` | `Medical Imaging` | `Deep Learning` | `Computer Vision` | `U-Net` | `Image Segmentation`
+**Technologies Used:** `PyTorch` | `Medical Imaging` | `Deep Learning` | `Computer Vision` | `U-Net` | `Image Segmentation`
 
 <p align="center">
   <a href="https://github.com/sagargour24/sagargour24/blob/main/Thesis_Sagar_Gour.pdf">
