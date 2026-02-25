@@ -44,19 +44,6 @@ Hi! I'm **Sagar**, an AI engineer and backend developer passionate about buildin
 
 ---
 
-## 📊 Technical Performance & Affiliation
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagargour24&layout=compact&theme=radical&hide_border=true" />
-  
-  <a href="https://github.com/GeneGeniusinc">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=GeneGeniusinc&repo=genegenius-core&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-> *Note: If the repository 'genegenius-core' is private, replace the repo name in the URL above with a public one from the organization.*
-
----
-
 ## 🛠 Featured Projects
 
 ### 🔹 **AI & Machine Learning**
