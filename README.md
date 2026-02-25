@@ -44,17 +44,10 @@ Hi! I'm **Sagar**, an AI engineer and backend developer passionate about buildin
 
 ---
 
-## 📊 Organization Stats (GeneGenius)
+## 📊 GeneGeniusInc Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeneGeniusinc&show_icons=true&theme=radical&type=organization" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneGeniusinc&layout=compact&theme=radical&type=organization" />
-</p>
-
----
-
-## 📈 My Personal GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagargour24&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
