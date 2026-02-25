@@ -5,14 +5,21 @@
 # 🌌 Sagar Vinod Gour  
 ### *AI Engineer | Backend Developer | Cloud & Data Enthusiast*
 
-Hi! I'm **Sagar**, an AI engineer and backend developer passionate about building intelligent systems, scalable backend services, and products that solve real-world problems. Currently working with **FastAPI** and **Neo4j** to build cutting-edge AI-powered applications.
+<p align="center">
+  <a href="https://www.nvidia.com/en-us/startups/">
+    <img src="https://img.shields.io/badge/Partner-NVIDIA%20Inception-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  </a>
+</p>
+
+Hi! I'm **Sagar**, an AI engineer and backend developer passionate about building intelligent systems, scalable backend services, and products that solve real-world problems. Currently working with **FastAPI** and **Neo4j** to build cutting-edge AI-powered applications at **GeneGenius**.
 
 ---
 
 ## 🚀 About Me
 - 🔭 Currently working on **FastAPI** and **Neo4j** graph databases
+- 🧬 Engineering AI-driven genomics solutions at **GeneGenius** (NVIDIA Inception Member)
 - 🎯 Major focus: **AI Engineering** with backend development
-- 🌱 Learning & building in **AI Engineering**, **MLOps**, and **Distributed Systems**
+- 🌱 Learning & building in **MLOps**, **Distributed Systems**, and **GenAI**
 - 🤝 Open to collaborating on **AI projects**, **backend systems**, and **startups**
 - 💬 Ask me about **Python, ML, FastAPI, Neo4j, AWS, APIs, Databases**
 - 📫 Reach me at: **sagar.gour1597@gmail.com**
@@ -25,29 +32,29 @@ Hi! I'm **Sagar**, an AI engineer and backend developer passionate about buildin
 ### **Languages**
 `Python` | `JavaScript` | `TypeScript` | `C++` | `SQL` | `Cypher` | `Bash`
 
-### **Backend & Frameworks**
+### **Backend & AI Frameworks**
 `FastAPI` | `Node.js` | `Express` | `Flask`  
-`TensorFlow` | `PyTorch` | `scikit-learn` | `OpenCV`
+`TensorFlow` | `PyTorch` | `scikit-learn` | `OpenCV` | `LangChain`
 
 ### **Cloud & DevOps**
-`AWS` | `Docker` | `Linux` | `Nginx` | `CI/CD Pipelines`
+`AWS (EC2, S3, RDS)` | `Docker` | `Linux` | `Nginx` | `CI/CD Pipelines` | `NVIDIA CUDA`
 
 ### **Databases**
-`Neo4j` | `PostgreSQL` | `MongoDB` | `MySQL` | `Redis`
+`Neo4j (Graph DB)` | `PostgreSQL` | `MongoDB` | `MySQL` | `Redis`
 
 ---
 
-## 📊 GeneGeniusInc Stats
+## 📊 Organization Stats (GeneGenius)
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeneGeniusinc&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneGeniusinc&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeneGeniusinc&show_icons=true&theme=radical&type=organization" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneGeniusinc&layout=compact&theme=radical&type=organization" />
 </p>
 
 ---
 
-## 📈 Organization Activity
+## 📈 My Personal GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeneGeniusinc&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagargour24&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -64,27 +71,13 @@ Hi! I'm **Sagar**, an AI engineer and backend developer passionate about buildin
 - **JWT Auth System** – Secure API & backend access  
 - **Microservices Architecture** – Scalable distributed backend services
 
-### 🔹 **Cloud & Automation**
-- **AWS Deployments** – EC2, RDS, IAM, S3, load balancers  
-- **Dockerized Microservices** – Scalable distributed setup  
-- **Monitoring & Logs** – CloudWatch + metric dashboards
-
 ---
 
-## 🎓 Master's Thesis
+## 🎓 Master's Thesis: Liver Vessel Segmentation
 
-### **Liver Vessel Segmentation using PhySegNet**
+My research focused on developing **PhySegNet**, an advanced deep learning architecture for precise liver vessel segmentation in medical imaging, addressing critical challenges in surgical planning.
 
-My master's thesis focused on developing an advanced deep learning architecture for precise liver vessel segmentation in medical imaging. This research addresses critical challenges in computer-aided diagnosis and surgical planning.
-
-**Key Highlights:**
-- **PhySegNet Architecture** – A tailored solution for liver vessel segmentation
-- **Medical Image Analysis** – Enhancing accuracy in medical imaging
-- **Deep Learning Innovation** – Leveraging state-of-the-art techniques
-- **Performance** – Achieving superior results in segmentation tasks
-- **Applications** – Significant implications in surgery and diagnostics
-
-**Technologies Used:** `PyTorch` | `Medical Imaging` | `Deep Learning` | `Computer Vision` | `U-Net` | `Image Segmentation`
+**Technologies Used:** `PyTorch` | `Computer Vision` | `U-Net` | `Medical Imaging`
 
 <p align="center">
   <a href="https://github.com/sagargour24/sagargour24/blob/main/Thesis_Sagar_Gour.pdf">
@@ -94,31 +87,12 @@ My master's thesis focused on developing an advanced deep learning architecture 
 
 ---
 
-## 📄 Resume
+## 📄 Resume & Connectivity
 
 <p align="center">
   <a href="https://github.com/sagargour24/sagargour24/blob/main/Sagar_Gour_Resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
-</p>
-
----
-
-## 🧩 Current Focus
-### **🤖 AI Engineering**
-Building intelligent AI-powered systems with focus on production-ready solutions.
-
-### **⚡ FastAPI + Neo4j**
-Developing high-performance backend APIs with graph database integration.
-
-### **🔍 Search + Retrieval Systems**
-Vector search, embeddings, LLM-powered retrieval with graph databases.
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
   <a href="https://www.linkedin.com/in/sagar-gour-18806a2b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
